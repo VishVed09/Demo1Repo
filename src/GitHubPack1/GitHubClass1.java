@@ -6,6 +6,7 @@ public class GitHubClass1
 	{
 		
 		System.out.println("Hey Tara");
+		System.out.println("Ved is yours");
 	}
 
 }
